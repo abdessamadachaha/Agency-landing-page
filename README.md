@@ -17,7 +17,7 @@ It features:
 
 ## 🔗 Links
 - **Solution URL:** [GitHub Repo](https://github.com/abdessamadachaha/agency-landing-page)  
-- **Live Site URL:** [Live Demo](https://abdessamadachaha.github.io/agency-landing-page)
+- **Live Site URL:** [Live Demo] https://abdessamadachaha.github.io/Agency-landing-page/
 
 ---
 
@@ -37,3 +37,4 @@ During this project I practiced:
 - Applying `z-index` to layer elements correctly  
 - Manipulating layout with **grid**  
 - Playing with small icons and UI details  
+
